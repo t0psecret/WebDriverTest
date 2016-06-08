@@ -1,0 +1,14 @@
+Вот сценарий теста, который необходимо реализовать на webdriver (браузер хром):
++1. open url: wrike.com
++2.click "Login" button
++3.click "sign Up"
++4.fill it up email address(random generated)
++5.click "Get started for free" button
++6.check at the loaded page, that you have success confirmation of registration
++7.click resend button
++8.open "Pricing" link
++9.click "Get started for free" for professional plan
++10.In appeared window fill it up another random generated email
++11.click "Create my Wrike account" button
+12.check at the loaded page, that you have success confirmation of registration
+13.click resend button
